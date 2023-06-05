@@ -19,7 +19,7 @@ public class Programa {
         mensalidade = 75.0;
       } else if (idade <= 25) {
         mensalidade = 90.0;
-      } else if (idade <= 40) {
+      } else if (idade <= 40){
         mensalidade = 85.0;
       } else {
         mensalidade = 80.0;
