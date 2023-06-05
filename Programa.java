@@ -36,7 +36,7 @@ public class Programa {
       } else if (idade <= 50) {
         mensalidade = 65.0;
       }else {
-        mensalidade = 80.0;
+        mensalidade = 50.0;
       }
     } else {
       System.out.println("Sexo inválido.");
